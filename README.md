@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2310.12931-b31b1b.svg)](https://arxiv.org/abs/2507.04632)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.04632-b31b1b.svg)](https://arxiv.org/abs/2507.04632)
 [![Team Page](https://img.shields.io/badge/Team-Page-blue)](https://www.thuidm.com/)
 [![GitHub](https://img.shields.io/github/stars/thu-rllab/MoPPS?style=social)](https://github.com/thu-rllab/MoPPS)
 
