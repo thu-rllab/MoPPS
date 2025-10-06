@@ -8,7 +8,7 @@
 **/*.tar.gz
 **/playground
 **/wandb
-models/
+#models/
 ckpts/
 # Byte-compiled / optimized / DLL files
 __pycache__/
