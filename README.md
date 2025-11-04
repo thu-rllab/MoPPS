@@ -85,3 +85,19 @@ If you find this work useful for your research, please cite our paper:
   year={2025}
 }
 ```
+
+This work is inspired by the following prior research:
+```bibtex
+@article{wang2025model,
+  title={Model predictive task sampling for efficient and robust adaptation},
+  author={Wang, Qi and Xiao, Zehao and Mao, Yixiu and Qu, Yun and Shen, Jiayi and Lv, Yiqin and Ji, Xiangyang},
+  journal={arXiv preprint arXiv:2501.11039},
+  year={2025}
+}
+@inproceedings{qu2025fast,
+  title={Fast and Robust: Task Sampling with Posterior and Diversity Synergies for Adaptive Decision-Makers in Randomized Environments},
+  author={Qu, Yun and Wang, Cheems and Mao, Yixiu and Lv, Yiqin and Ji, Xiangyang},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025}
+}
+```
