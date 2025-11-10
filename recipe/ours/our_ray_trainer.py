@@ -138,7 +138,7 @@ class OurRayPPOTrainer(RayPPOTrainer):
         #####task sampler###########
         self.task_sampler = None
         if self.config.tasksampler.framework != 0:
-            from recipe.ours.mpts_llm import PosteriorSampler
+            from recipe.ours.mopps import PosteriorSampler
 
             self.task_sampler = PosteriorSampler(args=self.config, total_num_samples=40315, init=self.config.tasksampler.bandit_init, init_dir=self.config.tasksampler.bandit_init_dir)
             self.config.trainer.total_epochs = int(self.config.tasksampler.ts_ratio*self.config.trainer.total_epochs)
